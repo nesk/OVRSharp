@@ -4,8 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>TJ Horner</Authors>
     <Description>High-level idiomatic C# interface for working with the OpenVR API</Description>
-    <RepositoryUrl>https://github.com/OVRTools/OVRSharp</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/OVRTools/OVRSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/nesk/OVRSharp</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/nesk/OVRSharp</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>git</RepositoryType>
     <PackageTags>openvr</PackageTags>
